@@ -3,9 +3,19 @@ macros:
   - name: M1S
     group: "Dawntrail/Savage"
     iconId: 4507
-    markdownUrl: MarkdownMacros/M1S.md        # `lines` and `notes` are parsed from Markdown
-    markdownNotesHeaderName: "Macro Notes"    # Optional, replaces the `notes` field
-    markdownMacroCodeBlockIndex: 0            # Optional if the first code block is the correct one
+    markdownUrl: MarkdownMacros/M1S.md        # `lines` are parsed from Markdown
+    notes: |
+      Changes:
+
+      - 2024-01-01: Added the macro
+      - 2024-01-02: Swapped D1 and D2
+      - 2024-01-03: Some other change
+
+  - name: M2S
+    group: "Dawntrail/Savage"
+    iconId: 27105
+    markdownUrl: MarkdownMacros/M2S.md        # `lines` are parsed from Markdown
+    markdownMacroCodeBlockIndex: 1            # Optional if the first code block is the correct one
 
   - name: "Sprint (PvP)"
     group: "Sprint"

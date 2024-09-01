@@ -2,14 +2,6 @@
 
 Here is some text
 
-### Macro Notes
-
-Changes:
-
-- 2024-01-01: Added the macro
-- 2024-01-02: Swapped D1 and D2
-- 2024-01-03: Some other change
-
 ### Macro
 
 Current M1S Macro 09/08/24
