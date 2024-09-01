@@ -1,0 +1,36 @@
+macros:
+  - name: "Sprint (PvP)"
+    group: "Sprint"
+    iconId: 104
+    lines: |
+      /pvpaction "Sprint" <me>
+    notes: |
+      Link: "99 Individual". Link Conditions: "PvP State = In PvP"
+
+  - name: "Sprint (Island Sanctuary)"
+    group: "Sprint"
+    iconId: 104
+    lines: |
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+      /ac "Duty Action I" <wait.20>
+    notes: |
+      Link: "99 Individual". Link Conditions: "Location = Unnamed Island (1055)"
+
+  - name: "Sprint (Default)"
+    group: "Sprint"
+    iconId: 104
+    lines: |
+      /ac "Sprint" <me>
+    notes: |
+      Link: "99 Individual".
