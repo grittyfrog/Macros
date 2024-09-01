@@ -5,6 +5,7 @@ macros:
     iconId: 104
     lines: |
       /pvpaction "Sprint" <me>
+      /echo hi
     notes: |
       Link: "99 Individual". Link Conditions: "PvP State = In PvP"
 
