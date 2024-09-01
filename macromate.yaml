@@ -1,5 +1,12 @@
 name: "Frog Macros"
 macros:
+  - name: M1S
+    group: "Dawntrail/Savage"
+    iconId: 4507
+    markdownUrl: MarkdownMacros/M1S.md        # `lines` and `notes` are parsed from Markdown
+    markdownNotesHeaderName: "Macro Notes"    # Optional, replaces the `notes` field
+    markdownMacroCodeBlockIndex: 0            # Optional if the first code block is the correct one
+
   - name: "Sprint (PvP)"
     group: "Sprint"
     iconId: 104
