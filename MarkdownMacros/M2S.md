@@ -14,4 +14,6 @@ Here is some text
 /echo Change to the macro
 ```
 
-Test line that shouldn't cause a change
+Test line that shouldn't cause a change.
+
+Another non-changing line
