@@ -1,5 +1,9 @@
 name: "Frog Macros"
 macros:
+  - name: Raw
+    group: "Test"
+    rawUrl: RawMacros/Test.macro
+
   - name: M1S
     group: "Dawntrail/Savage"
     iconId: 4507
